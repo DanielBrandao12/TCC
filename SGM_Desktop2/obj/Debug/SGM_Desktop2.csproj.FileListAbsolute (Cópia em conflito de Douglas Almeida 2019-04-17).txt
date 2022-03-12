@@ -1,0 +1,638 @@
+C:\Users\Rafael Goulart\Desktop\SGM_Desktop2\SGM_Desktop2\bin\Debug\SGM_Desktop2.exe.config
+C:\Users\Rafael Goulart\Desktop\SGM_Desktop2\SGM_Desktop2\bin\Debug\SGM_Desktop2.exe
+C:\Users\Rafael Goulart\Desktop\SGM_Desktop2\SGM_Desktop2\bin\Debug\SGM_Desktop2.pdb
+C:\Users\Rafael Goulart\Desktop\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.csprojAssemblyReference.cache
+C:\Users\Rafael Goulart\Desktop\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.Properties.Resources.resources
+C:\Users\Rafael Goulart\Desktop\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.csproj.GenerateResource.cache
+C:\Users\Rafael Goulart\Desktop\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Goulart\Desktop\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.exe
+C:\Users\Rafael Goulart\Desktop\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.pdb
+C:\Users\Rafael Goulart\Desktop\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.telalogin.resources
+C:\Users\Rafael Goulart\Desktop\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.telaprincipal.resources
+C:\Users\DanielBrandão\Desktop\SGM_Desktop2\SGM_Desktop2\bin\Debug\SGM_Desktop2.exe.config
+C:\Users\DanielBrandão\Desktop\SGM_Desktop2\SGM_Desktop2\bin\Debug\SGM_Desktop2.exe
+C:\Users\DanielBrandão\Desktop\SGM_Desktop2\SGM_Desktop2\bin\Debug\SGM_Desktop2.pdb
+C:\Users\DanielBrandão\Desktop\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.csprojAssemblyReference.cache
+C:\Users\DanielBrandão\Desktop\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.TabelaAddFornecedor.resources
+C:\Users\DanielBrandão\Desktop\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.telaprincipal.resources
+C:\Users\DanielBrandão\Desktop\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.telalogin.resources
+C:\Users\DanielBrandão\Desktop\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.Properties.Resources.resources
+C:\Users\DanielBrandão\Desktop\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.csproj.GenerateResource.cache
+C:\Users\DanielBrandão\Desktop\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.csproj.CoreCompileInputs.cache
+C:\Users\DanielBrandão\Desktop\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.exe
+C:\Users\DanielBrandão\Desktop\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.pdb
+E:\SGM_Desktop2\SGM_Desktop2\bin\Debug\SGM_Desktop2.exe.config
+E:\SGM_Desktop2\SGM_Desktop2\bin\Debug\SGM_Desktop2.exe
+E:\SGM_Desktop2\SGM_Desktop2\bin\Debug\SGM_Desktop2.pdb
+E:\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.csprojAssemblyReference.cache
+E:\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.subForm1.resources
+E:\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.subForm2.resources
+E:\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.subForm3.resources
+E:\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.TabelaAddFornecedor.resources
+E:\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.telaprincipal.resources
+E:\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.telalogin.resources
+E:\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.Properties.Resources.resources
+E:\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.csproj.GenerateResource.cache
+E:\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.csproj.CoreCompileInputs.cache
+E:\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.exe
+E:\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.pdb
+E:\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySql.Data.dll
+E:\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySql.Data.EntityFramework.dll
+E:\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.dll
+E:\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySQL.Data.EntityFrameworkCore.dll
+E:\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySql.Web.dll
+E:\SGM_Desktop2\SGM_Desktop2\bin\Debug\Google.Protobuf.dll
+E:\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySql.Data.xml
+E:\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySql.Data.EntityFramework.xml
+E:\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+E:\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.xml
+E:\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySql.Web.xml
+E:\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.exe.config
+E:\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.csproj.CopyComplete
+C:\Users\DanielBrandão\Desktop\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySql.Data.dll
+C:\Users\DanielBrandão\Desktop\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\DanielBrandão\Desktop\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.dll
+C:\Users\DanielBrandão\Desktop\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySQL.Data.EntityFrameworkCore.dll
+C:\Users\DanielBrandão\Desktop\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySql.Web.dll
+C:\Users\DanielBrandão\Desktop\SGM_Desktop2\SGM_Desktop2\bin\Debug\Google.Protobuf.dll
+C:\Users\DanielBrandão\Desktop\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySql.Data.xml
+C:\Users\DanielBrandão\Desktop\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\DanielBrandão\Desktop\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+C:\Users\DanielBrandão\Desktop\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.xml
+C:\Users\DanielBrandão\Desktop\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySql.Web.xml
+C:\Users\DanielBrandão\Desktop\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.exe.config
+C:\Users\DanielBrandão\Desktop\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.csproj.CopyComplete
+C:\Users\DanielBrandão\Desktop\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormPessoa.resources
+C:\Users\DanielBrandão\Desktop\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormVeiculo.resources
+C:\Users\DanielBrandão\Desktop\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormProduto.resources
+E:\Users\Rafael Goulart\Area de Trabalho\DesktopDaniel\SGM_Desktop2\SGM_Desktop2\bin\Debug\SGM_Desktop2.exe.config
+E:\Users\Rafael Goulart\Area de Trabalho\DesktopDaniel\SGM_Desktop2\SGM_Desktop2\bin\Debug\SGM_Desktop2.exe
+E:\Users\Rafael Goulart\Area de Trabalho\DesktopDaniel\SGM_Desktop2\SGM_Desktop2\bin\Debug\SGM_Desktop2.pdb
+E:\Users\Rafael Goulart\Area de Trabalho\DesktopDaniel\SGM_Desktop2\SGM_Desktop2\bin\Debug\Google.Protobuf.dll
+E:\Users\Rafael Goulart\Area de Trabalho\DesktopDaniel\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySql.Data.xml
+E:\Users\Rafael Goulart\Area de Trabalho\DesktopDaniel\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySql.Data.EntityFramework.xml
+E:\Users\Rafael Goulart\Area de Trabalho\DesktopDaniel\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+E:\Users\Rafael Goulart\Area de Trabalho\DesktopDaniel\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.xml
+E:\Users\Rafael Goulart\Area de Trabalho\DesktopDaniel\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySql.Web.xml
+E:\Users\Rafael Goulart\Area de Trabalho\DesktopDaniel\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.csprojAssemblyReference.cache
+E:\Users\Rafael Goulart\Area de Trabalho\DesktopDaniel\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.exe.config
+E:\Users\Rafael Goulart\Area de Trabalho\DesktopDaniel\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormPessoa.resources
+E:\Users\Rafael Goulart\Area de Trabalho\DesktopDaniel\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormVeiculo.resources
+E:\Users\Rafael Goulart\Area de Trabalho\DesktopDaniel\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormProduto.resources
+E:\Users\Rafael Goulart\Area de Trabalho\DesktopDaniel\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.TabelaAddFornecedor.resources
+E:\Users\Rafael Goulart\Area de Trabalho\DesktopDaniel\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.telaprincipal.resources
+E:\Users\Rafael Goulart\Area de Trabalho\DesktopDaniel\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.telalogin.resources
+E:\Users\Rafael Goulart\Area de Trabalho\DesktopDaniel\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.Properties.Resources.resources
+E:\Users\Rafael Goulart\Area de Trabalho\DesktopDaniel\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.csproj.GenerateResource.cache
+E:\Users\Rafael Goulart\Area de Trabalho\DesktopDaniel\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.csproj.CoreCompileInputs.cache
+E:\Users\Rafael Goulart\Area de Trabalho\DesktopDaniel\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.csproj.CopyComplete
+E:\Users\Rafael Goulart\Area de Trabalho\DesktopDaniel\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.exe
+E:\Users\Rafael Goulart\Area de Trabalho\DesktopDaniel\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.pdb
+C:\Users\DanielBrandão\Desktop\DesktopRafael\SGM_Desktop2\SGM_Desktop2\bin\Debug\SGM_Desktop2.exe.config
+C:\Users\DanielBrandão\Desktop\DesktopRafael\SGM_Desktop2\SGM_Desktop2\bin\Debug\SGM_Desktop2.exe
+C:\Users\DanielBrandão\Desktop\DesktopRafael\SGM_Desktop2\SGM_Desktop2\bin\Debug\SGM_Desktop2.pdb
+C:\Users\DanielBrandão\Desktop\DesktopRafael\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySql.Data.dll
+C:\Users\DanielBrandão\Desktop\DesktopRafael\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\DanielBrandão\Desktop\DesktopRafael\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.dll
+C:\Users\DanielBrandão\Desktop\DesktopRafael\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySQL.Data.EntityFrameworkCore.dll
+C:\Users\DanielBrandão\Desktop\DesktopRafael\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySql.Web.dll
+C:\Users\DanielBrandão\Desktop\DesktopRafael\SGM_Desktop2\SGM_Desktop2\bin\Debug\Google.Protobuf.dll
+C:\Users\DanielBrandão\Desktop\DesktopRafael\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySql.Data.xml
+C:\Users\DanielBrandão\Desktop\DesktopRafael\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\DanielBrandão\Desktop\DesktopRafael\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+C:\Users\DanielBrandão\Desktop\DesktopRafael\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.xml
+C:\Users\DanielBrandão\Desktop\DesktopRafael\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySql.Web.xml
+C:\Users\DanielBrandão\Desktop\DesktopRafael\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.csprojAssemblyReference.cache
+C:\Users\DanielBrandão\Desktop\DesktopRafael\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.exe.config
+C:\Users\DanielBrandão\Desktop\DesktopRafael\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormPessoa.resources
+C:\Users\DanielBrandão\Desktop\DesktopRafael\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormServico.resources
+C:\Users\DanielBrandão\Desktop\DesktopRafael\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormServicoRelatorio.resources
+C:\Users\DanielBrandão\Desktop\DesktopRafael\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormVeiculo.resources
+C:\Users\DanielBrandão\Desktop\DesktopRafael\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormProduto.resources
+C:\Users\DanielBrandão\Desktop\DesktopRafael\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.TabelaAddFornecedor.resources
+C:\Users\DanielBrandão\Desktop\DesktopRafael\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.telaprincipal.resources
+C:\Users\DanielBrandão\Desktop\DesktopRafael\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.telalogin.resources
+C:\Users\DanielBrandão\Desktop\DesktopRafael\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.Properties.Resources.resources
+C:\Users\DanielBrandão\Desktop\DesktopRafael\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.csproj.GenerateResource.cache
+C:\Users\DanielBrandão\Desktop\DesktopRafael\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.csproj.CoreCompileInputs.cache
+C:\Users\DanielBrandão\Desktop\DesktopRafael\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.csproj.CopyComplete
+C:\Users\DanielBrandão\Desktop\DesktopRafael\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.exe
+C:\Users\DanielBrandão\Desktop\DesktopRafael\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.pdb
+C:\Users\DanielBrandão\Desktop\DesktopRafael\SGM_Desktop2\SGM_Desktop2\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\DanielBrandão\Desktop\DesktopRafael\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormChat.resources
+C:\Users\DanielBrandão\Desktop\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormChat.resources
+C:\Users\DanielBrandão\Desktop\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormServico.resources
+C:\Users\DanielBrandão\Desktop\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormServicoRelatorio.resources
+C:\Users\DanielBrandão\Desktop\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormContaPagar.resources
+C:\Users\DanielBrandão\Desktop\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormContaReceber.resources
+C:\Users\DanielBrandão\Desktop\SGM_Desktop2\SGM_Desktop2\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\DanielBrandão\Desktop\SGM_Desktop2\SGM_Desktop2\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\DanielBrandão\Desktop\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.AlterarCliente.resources
+C:\Área de Trabalho\Nova pasta\DesktopDaniel\SGM_Desktop2\SGM_Desktop2\bin\Debug\SGM_Desktop2.exe.config
+C:\Área de Trabalho\Nova pasta\DesktopDaniel\SGM_Desktop2\SGM_Desktop2\bin\Debug\SGM_Desktop2.exe
+C:\Área de Trabalho\Nova pasta\DesktopDaniel\SGM_Desktop2\SGM_Desktop2\bin\Debug\SGM_Desktop2.pdb
+C:\Área de Trabalho\Nova pasta\DesktopDaniel\SGM_Desktop2\SGM_Desktop2\bin\Debug\Google.Protobuf.dll
+C:\Área de Trabalho\Nova pasta\DesktopDaniel\SGM_Desktop2\SGM_Desktop2\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Área de Trabalho\Nova pasta\DesktopDaniel\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySql.Data.xml
+C:\Área de Trabalho\Nova pasta\DesktopDaniel\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Área de Trabalho\Nova pasta\DesktopDaniel\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+C:\Área de Trabalho\Nova pasta\DesktopDaniel\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.xml
+C:\Área de Trabalho\Nova pasta\DesktopDaniel\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySql.Web.xml
+C:\Área de Trabalho\Nova pasta\DesktopDaniel\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.csprojAssemblyReference.cache
+C:\Área de Trabalho\Nova pasta\DesktopDaniel\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.exe.config
+C:\Área de Trabalho\Nova pasta\DesktopDaniel\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.AlterarCliente.resources
+C:\Área de Trabalho\Nova pasta\DesktopDaniel\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormChat.resources
+C:\Área de Trabalho\Nova pasta\DesktopDaniel\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormContaPagar.resources
+C:\Área de Trabalho\Nova pasta\DesktopDaniel\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormContaReceber.resources
+C:\Área de Trabalho\Nova pasta\DesktopDaniel\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormPessoa.resources
+C:\Área de Trabalho\Nova pasta\DesktopDaniel\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormServico.resources
+C:\Área de Trabalho\Nova pasta\DesktopDaniel\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormServicoRelatorio.resources
+C:\Área de Trabalho\Nova pasta\DesktopDaniel\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormVeiculo.resources
+C:\Área de Trabalho\Nova pasta\DesktopDaniel\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormProduto.resources
+C:\Área de Trabalho\Nova pasta\DesktopDaniel\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.TabelaAddFornecedor.resources
+C:\Área de Trabalho\Nova pasta\DesktopDaniel\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.telalogin.resources
+C:\Área de Trabalho\Nova pasta\DesktopDaniel\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.Properties.Resources.resources
+C:\Área de Trabalho\Nova pasta\DesktopDaniel\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.telaprincipal.resources
+C:\Área de Trabalho\Nova pasta\DesktopDaniel\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.csproj.GenerateResource.cache
+C:\Área de Trabalho\Nova pasta\DesktopDaniel\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.csproj.CoreCompileInputs.cache
+C:\Área de Trabalho\Nova pasta\DesktopDaniel\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.csproj.CopyComplete
+C:\Área de Trabalho\Nova pasta\DesktopDaniel\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.exe
+C:\Área de Trabalho\Nova pasta\DesktopDaniel\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.pdb
+C:\Área de Trabalho\SGM_Desktop2\SGM_Desktop2\bin\Debug\SGM_Desktop2.exe.config
+C:\Área de Trabalho\SGM_Desktop2\SGM_Desktop2\bin\Debug\SGM_Desktop2.exe
+C:\Área de Trabalho\SGM_Desktop2\SGM_Desktop2\bin\Debug\SGM_Desktop2.pdb
+C:\Área de Trabalho\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.exe.config
+C:\Área de Trabalho\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.AlterarCliente.resources
+C:\Área de Trabalho\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormChat.resources
+C:\Área de Trabalho\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormContaPagar.resources
+C:\Área de Trabalho\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormContaReceber.resources
+C:\Área de Trabalho\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormPessoa.resources
+C:\Área de Trabalho\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormServico.resources
+C:\Área de Trabalho\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormServicoRelatorio.resources
+C:\Área de Trabalho\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormVeiculo.resources
+C:\Área de Trabalho\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormProduto.resources
+C:\Área de Trabalho\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.TabelaAddFornecedor.resources
+C:\Área de Trabalho\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.telalogin.resources
+C:\Área de Trabalho\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.Properties.Resources.resources
+C:\Área de Trabalho\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.telaprincipal.resources
+C:\Área de Trabalho\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.csproj.GenerateResource.cache
+C:\Área de Trabalho\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.csproj.CoreCompileInputs.cache
+C:\Área de Trabalho\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.csproj.CopyComplete
+C:\Área de Trabalho\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.exe
+C:\Área de Trabalho\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.pdb
+C:\Área de Trabalho\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.csprojAssemblyReference.cache
+C:\Users\DanielBrandão\Desktop\desk_Douglas\SGM_Desktop2\SGM_Desktop2\bin\Debug\SGM_Desktop2.exe.config
+C:\Users\DanielBrandão\Desktop\desk_Douglas\SGM_Desktop2\SGM_Desktop2\bin\Debug\SGM_Desktop2.exe
+C:\Users\DanielBrandão\Desktop\desk_Douglas\SGM_Desktop2\SGM_Desktop2\bin\Debug\SGM_Desktop2.pdb
+C:\Users\DanielBrandão\Desktop\desk_Douglas\SGM_Desktop2\SGM_Desktop2\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\DanielBrandão\Desktop\desk_Douglas\SGM_Desktop2\SGM_Desktop2\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\DanielBrandão\Desktop\desk_Douglas\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySql.Data.dll
+C:\Users\DanielBrandão\Desktop\desk_Douglas\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\DanielBrandão\Desktop\desk_Douglas\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.dll
+C:\Users\DanielBrandão\Desktop\desk_Douglas\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySQL.Data.EntityFrameworkCore.dll
+C:\Users\DanielBrandão\Desktop\desk_Douglas\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySql.Web.dll
+C:\Users\DanielBrandão\Desktop\desk_Douglas\SGM_Desktop2\SGM_Desktop2\bin\Debug\Google.Protobuf.dll
+C:\Users\DanielBrandão\Desktop\desk_Douglas\SGM_Desktop2\SGM_Desktop2\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\DanielBrandão\Desktop\desk_Douglas\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySql.Data.xml
+C:\Users\DanielBrandão\Desktop\desk_Douglas\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\DanielBrandão\Desktop\desk_Douglas\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+C:\Users\DanielBrandão\Desktop\desk_Douglas\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.xml
+C:\Users\DanielBrandão\Desktop\desk_Douglas\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySql.Web.xml
+C:\Users\DanielBrandão\Desktop\desk_Douglas\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.csprojAssemblyReference.cache
+C:\Users\DanielBrandão\Desktop\desk_Douglas\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.exe.config
+C:\Users\DanielBrandão\Desktop\desk_Douglas\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.AlterarCliente.resources
+C:\Users\DanielBrandão\Desktop\desk_Douglas\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormChat.resources
+C:\Users\DanielBrandão\Desktop\desk_Douglas\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormContaPagar.resources
+C:\Users\DanielBrandão\Desktop\desk_Douglas\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormContaReceber.resources
+C:\Users\DanielBrandão\Desktop\desk_Douglas\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormPessoa.resources
+C:\Users\DanielBrandão\Desktop\desk_Douglas\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormServico.resources
+C:\Users\DanielBrandão\Desktop\desk_Douglas\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormServicoRelatorio.resources
+C:\Users\DanielBrandão\Desktop\desk_Douglas\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormVeiculo.resources
+C:\Users\DanielBrandão\Desktop\desk_Douglas\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormProduto.resources
+C:\Users\DanielBrandão\Desktop\desk_Douglas\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.TabelaAddFornecedor.resources
+C:\Users\DanielBrandão\Desktop\desk_Douglas\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.telalogin.resources
+C:\Users\DanielBrandão\Desktop\desk_Douglas\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.Properties.Resources.resources
+C:\Users\DanielBrandão\Desktop\desk_Douglas\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.telaprincipal.resources
+C:\Users\DanielBrandão\Desktop\desk_Douglas\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.csproj.GenerateResource.cache
+C:\Users\DanielBrandão\Desktop\desk_Douglas\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.csproj.CoreCompileInputs.cache
+C:\Users\DanielBrandão\Desktop\desk_Douglas\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.csproj.CopyComplete
+C:\Users\DanielBrandão\Desktop\desk_Douglas\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.exe
+C:\Users\DanielBrandão\Desktop\desk_Douglas\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.pdb
+E:\desk_Douglas\SGM_Desktop2\SGM_Desktop2\bin\Debug\SGM_Desktop2.exe.config
+E:\desk_Douglas\SGM_Desktop2\SGM_Desktop2\bin\Debug\SGM_Desktop2.exe
+E:\desk_Douglas\SGM_Desktop2\SGM_Desktop2\bin\Debug\SGM_Desktop2.pdb
+E:\desk_Douglas\SGM_Desktop2\SGM_Desktop2\bin\Debug\Google.Protobuf.dll
+E:\desk_Douglas\SGM_Desktop2\SGM_Desktop2\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+E:\desk_Douglas\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySql.Data.xml
+E:\desk_Douglas\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySql.Data.EntityFramework.xml
+E:\desk_Douglas\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+E:\desk_Douglas\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.xml
+E:\desk_Douglas\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySql.Web.xml
+E:\desk_Douglas\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.csprojAssemblyReference.cache
+E:\desk_Douglas\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.exe.config
+E:\desk_Douglas\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.AlterarCliente.resources
+E:\desk_Douglas\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormChat.resources
+E:\desk_Douglas\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormContaPagar.resources
+E:\desk_Douglas\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormContaReceber.resources
+E:\desk_Douglas\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormPessoa.resources
+E:\desk_Douglas\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormServico.resources
+E:\desk_Douglas\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormServicoRelatorio.resources
+E:\desk_Douglas\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormVeiculo.resources
+E:\desk_Douglas\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormProduto.resources
+E:\desk_Douglas\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.TabelaAddFornecedor.resources
+E:\desk_Douglas\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.telalogin.resources
+E:\desk_Douglas\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.Properties.Resources.resources
+E:\desk_Douglas\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.telaprincipal.resources
+E:\desk_Douglas\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.csproj.GenerateResource.cache
+E:\desk_Douglas\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.csproj.CoreCompileInputs.cache
+E:\desk_Douglas\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.csproj.CopyComplete
+E:\desk_Douglas\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.exe
+E:\desk_Douglas\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.pdb
+C:\Users\Daniel\Dropbox\desk_Douglas\SGM_Desktop2\SGM_Desktop2\bin\Debug\SGM_Desktop2.exe.config
+C:\Users\Daniel\Dropbox\desk_Douglas\SGM_Desktop2\SGM_Desktop2\bin\Debug\SGM_Desktop2.exe
+C:\Users\Daniel\Dropbox\desk_Douglas\SGM_Desktop2\SGM_Desktop2\bin\Debug\SGM_Desktop2.pdb
+C:\Users\Daniel\Dropbox\desk_Douglas\SGM_Desktop2\SGM_Desktop2\bin\Debug\Google.Protobuf.dll
+C:\Users\Daniel\Dropbox\desk_Douglas\SGM_Desktop2\SGM_Desktop2\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Daniel\Dropbox\desk_Douglas\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySql.Data.xml
+C:\Users\Daniel\Dropbox\desk_Douglas\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\Daniel\Dropbox\desk_Douglas\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+C:\Users\Daniel\Dropbox\desk_Douglas\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.xml
+C:\Users\Daniel\Dropbox\desk_Douglas\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySql.Web.xml
+C:\Users\Daniel\Dropbox\desk_Douglas\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.csprojAssemblyReference.cache
+C:\Users\Daniel\Dropbox\desk_Douglas\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.exe.config
+C:\Users\Daniel\Dropbox\desk_Douglas\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.AlterarCliente.resources
+C:\Users\Daniel\Dropbox\desk_Douglas\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormChat.resources
+C:\Users\Daniel\Dropbox\desk_Douglas\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormContaPagar.resources
+C:\Users\Daniel\Dropbox\desk_Douglas\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormContaReceber.resources
+C:\Users\Daniel\Dropbox\desk_Douglas\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormPessoa.resources
+C:\Users\Daniel\Dropbox\desk_Douglas\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormServico.resources
+C:\Users\Daniel\Dropbox\desk_Douglas\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormServicoRelatorio.resources
+C:\Users\Daniel\Dropbox\desk_Douglas\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormVeiculo.resources
+C:\Users\Daniel\Dropbox\desk_Douglas\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormProduto.resources
+C:\Users\Daniel\Dropbox\desk_Douglas\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.TabelaAddFornecedor.resources
+C:\Users\Daniel\Dropbox\desk_Douglas\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.telalogin.resources
+C:\Users\Daniel\Dropbox\desk_Douglas\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.Properties.Resources.resources
+C:\Users\Daniel\Dropbox\desk_Douglas\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.telaprincipal.resources
+C:\Users\Daniel\Dropbox\desk_Douglas\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.csproj.GenerateResource.cache
+C:\Users\Daniel\Dropbox\desk_Douglas\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Dropbox\desk_Douglas\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.csproj.CopyComplete
+C:\Users\Daniel\Dropbox\desk_Douglas\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.exe
+C:\Users\Daniel\Dropbox\desk_Douglas\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.pdb
+C:\Users\DanielBrandão\Dropbox\desk_Douglas\SGM_Desktop2\SGM_Desktop2\bin\Debug\SGM_Desktop2.exe.config
+C:\Users\DanielBrandão\Dropbox\desk_Douglas\SGM_Desktop2\SGM_Desktop2\bin\Debug\SGM_Desktop2.exe
+C:\Users\DanielBrandão\Dropbox\desk_Douglas\SGM_Desktop2\SGM_Desktop2\bin\Debug\SGM_Desktop2.pdb
+C:\Users\DanielBrandão\Dropbox\desk_Douglas\SGM_Desktop2\SGM_Desktop2\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\DanielBrandão\Dropbox\desk_Douglas\SGM_Desktop2\SGM_Desktop2\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\DanielBrandão\Dropbox\desk_Douglas\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySql.Data.dll
+C:\Users\DanielBrandão\Dropbox\desk_Douglas\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\DanielBrandão\Dropbox\desk_Douglas\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.dll
+C:\Users\DanielBrandão\Dropbox\desk_Douglas\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySQL.Data.EntityFrameworkCore.dll
+C:\Users\DanielBrandão\Dropbox\desk_Douglas\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySql.Web.dll
+C:\Users\DanielBrandão\Dropbox\desk_Douglas\SGM_Desktop2\SGM_Desktop2\bin\Debug\Google.Protobuf.dll
+C:\Users\DanielBrandão\Dropbox\desk_Douglas\SGM_Desktop2\SGM_Desktop2\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\DanielBrandão\Dropbox\desk_Douglas\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySql.Data.xml
+C:\Users\DanielBrandão\Dropbox\desk_Douglas\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\DanielBrandão\Dropbox\desk_Douglas\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+C:\Users\DanielBrandão\Dropbox\desk_Douglas\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.xml
+C:\Users\DanielBrandão\Dropbox\desk_Douglas\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySql.Web.xml
+C:\Users\DanielBrandão\Dropbox\desk_Douglas\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.csprojAssemblyReference.cache
+C:\Users\DanielBrandão\Dropbox\desk_Douglas\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.exe.config
+C:\Users\DanielBrandão\Dropbox\desk_Douglas\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.AlterarCliente.resources
+C:\Users\DanielBrandão\Dropbox\desk_Douglas\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormChat.resources
+C:\Users\DanielBrandão\Dropbox\desk_Douglas\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormContaPagar.resources
+C:\Users\DanielBrandão\Dropbox\desk_Douglas\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormContaReceber.resources
+C:\Users\DanielBrandão\Dropbox\desk_Douglas\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormPessoa.resources
+C:\Users\DanielBrandão\Dropbox\desk_Douglas\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormServico.resources
+C:\Users\DanielBrandão\Dropbox\desk_Douglas\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormServicoRelatorio.resources
+C:\Users\DanielBrandão\Dropbox\desk_Douglas\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormVeiculo.resources
+C:\Users\DanielBrandão\Dropbox\desk_Douglas\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormProduto.resources
+C:\Users\DanielBrandão\Dropbox\desk_Douglas\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.TabelaAddFornecedor.resources
+C:\Users\DanielBrandão\Dropbox\desk_Douglas\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.telalogin.resources
+C:\Users\DanielBrandão\Dropbox\desk_Douglas\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.Properties.Resources.resources
+C:\Users\DanielBrandão\Dropbox\desk_Douglas\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.telaprincipal.resources
+C:\Users\DanielBrandão\Dropbox\desk_Douglas\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.csproj.GenerateResource.cache
+C:\Users\DanielBrandão\Dropbox\desk_Douglas\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.csproj.CoreCompileInputs.cache
+C:\Users\DanielBrandão\Dropbox\desk_Douglas\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.csproj.CopyComplete
+C:\Users\DanielBrandão\Dropbox\desk_Douglas\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.exe
+C:\Users\DanielBrandão\Dropbox\desk_Douglas\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.pdb
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\bin\Debug\SGM_Desktop2.exe.config
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\bin\Debug\SGM_Desktop2.exe
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\bin\Debug\SGM_Desktop2.pdb
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\bin\Debug\Google.Protobuf.dll
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySql.Data.xml
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySql.Data.EntityFramework.xml
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.xml
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySql.Web.xml
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.csprojAssemblyReference.cache
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.exe.config
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.AlterarCliente.resources
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormChat.resources
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormContaPagar.resources
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormContaReceber.resources
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormPessoa.resources
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormServico.resources
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormServicoRelatorio.resources
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormVeiculo.resources
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormProduto.resources
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.TabelaAddFornecedor.resources
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.telalogin.resources
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.Properties.Resources.resources
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.telaprincipal.resources
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.csproj.GenerateResource.cache
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.csproj.CoreCompileInputs.cache
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.csproj.CopyComplete
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.exe
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.pdb
+C:\Users\DanielBrandão\Desktop\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\bin\Debug\SGM_Desktop2.exe.config
+C:\Users\DanielBrandão\Desktop\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\bin\Debug\SGM_Desktop2.exe
+C:\Users\DanielBrandão\Desktop\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\bin\Debug\SGM_Desktop2.pdb
+C:\Users\DanielBrandão\Desktop\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\DanielBrandão\Desktop\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySql.Data.dll
+C:\Users\DanielBrandão\Desktop\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\DanielBrandão\Desktop\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.dll
+C:\Users\DanielBrandão\Desktop\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySQL.Data.EntityFrameworkCore.dll
+C:\Users\DanielBrandão\Desktop\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySql.Web.dll
+C:\Users\DanielBrandão\Desktop\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\bin\Debug\Google.Protobuf.dll
+C:\Users\DanielBrandão\Desktop\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\DanielBrandão\Desktop\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySql.Data.xml
+C:\Users\DanielBrandão\Desktop\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\DanielBrandão\Desktop\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+C:\Users\DanielBrandão\Desktop\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.xml
+C:\Users\DanielBrandão\Desktop\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySql.Web.xml
+C:\Users\DanielBrandão\Desktop\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.csprojAssemblyReference.cache
+C:\Users\DanielBrandão\Desktop\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.exe.config
+C:\Users\DanielBrandão\Desktop\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.AlterarCliente.resources
+C:\Users\DanielBrandão\Desktop\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormChat.resources
+C:\Users\DanielBrandão\Desktop\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormContaPagar.resources
+C:\Users\DanielBrandão\Desktop\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormContaReceber.resources
+C:\Users\DanielBrandão\Desktop\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormPessoa.resources
+C:\Users\DanielBrandão\Desktop\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormServico.resources
+C:\Users\DanielBrandão\Desktop\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormServicoRelatorio.resources
+C:\Users\DanielBrandão\Desktop\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormVeiculo.resources
+C:\Users\DanielBrandão\Desktop\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormProduto.resources
+C:\Users\DanielBrandão\Desktop\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.TabelaAddFornecedor.resources
+C:\Users\DanielBrandão\Desktop\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.telalogin.resources
+C:\Users\DanielBrandão\Desktop\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.Properties.Resources.resources
+C:\Users\DanielBrandão\Desktop\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.telaprincipal.resources
+C:\Users\DanielBrandão\Desktop\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.csproj.GenerateResource.cache
+C:\Users\DanielBrandão\Desktop\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.csproj.CoreCompileInputs.cache
+C:\Users\DanielBrandão\Desktop\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.csproj.CopyComplete
+C:\Users\DanielBrandão\Desktop\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.exe
+C:\Users\DanielBrandão\Desktop\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.pdb
+C:\Users\DanielBrandão\Desktop\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\bin\Debug\Reports.dll
+C:\Users\Daniel\Dropbox\Projeto PCC-S-GM\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\bin\Debug\SGM_Desktop2.exe.config
+C:\Users\Daniel\Dropbox\Projeto PCC-S-GM\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\bin\Debug\SGM_Desktop2.exe
+C:\Users\Daniel\Dropbox\Projeto PCC-S-GM\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\bin\Debug\SGM_Desktop2.pdb
+C:\Users\Daniel\Dropbox\Projeto PCC-S-GM\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\bin\Debug\Google.Protobuf.dll
+C:\Users\Daniel\Dropbox\Projeto PCC-S-GM\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Daniel\Dropbox\Projeto PCC-S-GM\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySql.Data.xml
+C:\Users\Daniel\Dropbox\Projeto PCC-S-GM\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\Daniel\Dropbox\Projeto PCC-S-GM\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+C:\Users\Daniel\Dropbox\Projeto PCC-S-GM\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.xml
+C:\Users\Daniel\Dropbox\Projeto PCC-S-GM\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySql.Web.xml
+C:\Users\Daniel\Dropbox\Projeto PCC-S-GM\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.csprojAssemblyReference.cache
+C:\Users\Daniel\Dropbox\Projeto PCC-S-GM\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.exe.config
+C:\Users\Daniel\Dropbox\Projeto PCC-S-GM\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.AlterarCliente.resources
+C:\Users\Daniel\Dropbox\Projeto PCC-S-GM\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormChat.resources
+C:\Users\Daniel\Dropbox\Projeto PCC-S-GM\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormContaPagar.resources
+C:\Users\Daniel\Dropbox\Projeto PCC-S-GM\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormContaReceber.resources
+C:\Users\Daniel\Dropbox\Projeto PCC-S-GM\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormPessoa.resources
+C:\Users\Daniel\Dropbox\Projeto PCC-S-GM\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormServico.resources
+C:\Users\Daniel\Dropbox\Projeto PCC-S-GM\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormServicoRelatorio.resources
+C:\Users\Daniel\Dropbox\Projeto PCC-S-GM\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormVeiculo.resources
+C:\Users\Daniel\Dropbox\Projeto PCC-S-GM\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormProduto.resources
+C:\Users\Daniel\Dropbox\Projeto PCC-S-GM\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.TabelaAddFornecedor.resources
+C:\Users\Daniel\Dropbox\Projeto PCC-S-GM\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.telalogin.resources
+C:\Users\Daniel\Dropbox\Projeto PCC-S-GM\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.Properties.Resources.resources
+C:\Users\Daniel\Dropbox\Projeto PCC-S-GM\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.telaprincipal.resources
+C:\Users\Daniel\Dropbox\Projeto PCC-S-GM\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.csproj.GenerateResource.cache
+C:\Users\Daniel\Dropbox\Projeto PCC-S-GM\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Dropbox\Projeto PCC-S-GM\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.csproj.CopyComplete
+C:\Users\Daniel\Dropbox\Projeto PCC-S-GM\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.exe
+C:\Users\Daniel\Dropbox\Projeto PCC-S-GM\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.pdb
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.csprojAssemblyReference.cache
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.exe.config
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.AlterarCliente.resources
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormChat.resources
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormContaPagar.resources
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormContaReceber.resources
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormPessoa.resources
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormServico.resources
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormServicoRelatorio.resources
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormVeiculo.resources
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormProduto.resources
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.TabelaAddFornecedor.resources
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.telalogin.resources
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.Properties.Resources.resources
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.telaprincipal.resources
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.csproj.GenerateResource.cache
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.csproj.CoreCompileInputs.cache
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.exe
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.pdb
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\bin\Debug\SGM_Desktop2.exe.config
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\bin\Debug\SGM_Desktop2.exe
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\bin\Debug\SGM_Desktop2.pdb
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\bin\Debug\Google.Protobuf.dll
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySql.Data.xml
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySql.Data.EntityFramework.xml
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.xml
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySql.Web.xml
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.csproj.CopyComplete
+C:\Users\DanielBrandão\Dropbox\Projeto PCC-S-GM\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\bin\Debug\SGM_Desktop2.exe.config
+C:\Users\DanielBrandão\Dropbox\Projeto PCC-S-GM\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\bin\Debug\SGM_Desktop2.exe
+C:\Users\DanielBrandão\Dropbox\Projeto PCC-S-GM\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\bin\Debug\SGM_Desktop2.pdb
+C:\Users\DanielBrandão\Dropbox\Projeto PCC-S-GM\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\DanielBrandão\Dropbox\Projeto PCC-S-GM\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySql.Data.dll
+C:\Users\DanielBrandão\Dropbox\Projeto PCC-S-GM\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\DanielBrandão\Dropbox\Projeto PCC-S-GM\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.dll
+C:\Users\DanielBrandão\Dropbox\Projeto PCC-S-GM\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySQL.Data.EntityFrameworkCore.dll
+C:\Users\DanielBrandão\Dropbox\Projeto PCC-S-GM\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySql.Web.dll
+C:\Users\DanielBrandão\Dropbox\Projeto PCC-S-GM\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\bin\Debug\Google.Protobuf.dll
+C:\Users\DanielBrandão\Dropbox\Projeto PCC-S-GM\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\DanielBrandão\Dropbox\Projeto PCC-S-GM\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySql.Data.xml
+C:\Users\DanielBrandão\Dropbox\Projeto PCC-S-GM\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\DanielBrandão\Dropbox\Projeto PCC-S-GM\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+C:\Users\DanielBrandão\Dropbox\Projeto PCC-S-GM\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.xml
+C:\Users\DanielBrandão\Dropbox\Projeto PCC-S-GM\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySql.Web.xml
+C:\Users\DanielBrandão\Dropbox\Projeto PCC-S-GM\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.csprojAssemblyReference.cache
+C:\Users\DanielBrandão\Dropbox\Projeto PCC-S-GM\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.exe.config
+C:\Users\DanielBrandão\Dropbox\Projeto PCC-S-GM\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.AlterarCliente.resources
+C:\Users\DanielBrandão\Dropbox\Projeto PCC-S-GM\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormChat.resources
+C:\Users\DanielBrandão\Dropbox\Projeto PCC-S-GM\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormContaPagar.resources
+C:\Users\DanielBrandão\Dropbox\Projeto PCC-S-GM\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormContaReceber.resources
+C:\Users\DanielBrandão\Dropbox\Projeto PCC-S-GM\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormPessoa.resources
+C:\Users\DanielBrandão\Dropbox\Projeto PCC-S-GM\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormServico.resources
+C:\Users\DanielBrandão\Dropbox\Projeto PCC-S-GM\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormServicoRelatorio.resources
+C:\Users\DanielBrandão\Dropbox\Projeto PCC-S-GM\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormVeiculo.resources
+C:\Users\DanielBrandão\Dropbox\Projeto PCC-S-GM\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormProduto.resources
+C:\Users\DanielBrandão\Dropbox\Projeto PCC-S-GM\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.TabelaAddFornecedor.resources
+C:\Users\DanielBrandão\Dropbox\Projeto PCC-S-GM\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.telalogin.resources
+C:\Users\DanielBrandão\Dropbox\Projeto PCC-S-GM\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.Properties.Resources.resources
+C:\Users\DanielBrandão\Dropbox\Projeto PCC-S-GM\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.telaprincipal.resources
+C:\Users\DanielBrandão\Dropbox\Projeto PCC-S-GM\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.csproj.GenerateResource.cache
+C:\Users\DanielBrandão\Dropbox\Projeto PCC-S-GM\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.csproj.CoreCompileInputs.cache
+C:\Users\DanielBrandão\Dropbox\Projeto PCC-S-GM\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.csproj.CopyComplete
+C:\Users\DanielBrandão\Dropbox\Projeto PCC-S-GM\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.exe
+C:\Users\DanielBrandão\Dropbox\Projeto PCC-S-GM\Desktop_Daniel\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.pdb
+C:\Área de Trabalho\SGM_Desktop2\SGM_Desktop2\bin\Debug\Google.Protobuf.dll
+C:\Área de Trabalho\SGM_Desktop2\SGM_Desktop2\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Área de Trabalho\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySql.Data.xml
+C:\Área de Trabalho\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Área de Trabalho\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+C:\Área de Trabalho\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.xml
+C:\Área de Trabalho\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySql.Web.xml
+C:\Users\DanielBrandão\Pictures\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\bin\Debug\SGM_Desktop2.exe.config
+C:\Users\DanielBrandão\Pictures\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\bin\Debug\SGM_Desktop2.exe
+C:\Users\DanielBrandão\Pictures\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\bin\Debug\SGM_Desktop2.pdb
+C:\Users\DanielBrandão\Pictures\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\DanielBrandão\Pictures\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\DanielBrandão\Pictures\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySql.Data.dll
+C:\Users\DanielBrandão\Pictures\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\DanielBrandão\Pictures\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.dll
+C:\Users\DanielBrandão\Pictures\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySQL.Data.EntityFrameworkCore.dll
+C:\Users\DanielBrandão\Pictures\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySql.Web.dll
+C:\Users\DanielBrandão\Pictures\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\bin\Debug\Reports.dll
+C:\Users\DanielBrandão\Pictures\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\bin\Debug\Google.Protobuf.dll
+C:\Users\DanielBrandão\Pictures\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\DanielBrandão\Pictures\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySql.Data.xml
+C:\Users\DanielBrandão\Pictures\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\DanielBrandão\Pictures\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+C:\Users\DanielBrandão\Pictures\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.xml
+C:\Users\DanielBrandão\Pictures\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\bin\Debug\MySql.Web.xml
+C:\Users\DanielBrandão\Pictures\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.csprojAssemblyReference.cache
+C:\Users\DanielBrandão\Pictures\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.exe.config
+C:\Users\DanielBrandão\Pictures\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.AlterarCliente.resources
+C:\Users\DanielBrandão\Pictures\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormChat.resources
+C:\Users\DanielBrandão\Pictures\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormContaPagar.resources
+C:\Users\DanielBrandão\Pictures\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormContaReceber.resources
+C:\Users\DanielBrandão\Pictures\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormPessoa.resources
+C:\Users\DanielBrandão\Pictures\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormServico.resources
+C:\Users\DanielBrandão\Pictures\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormServicoRelatorio.resources
+C:\Users\DanielBrandão\Pictures\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormVeiculo.resources
+C:\Users\DanielBrandão\Pictures\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormProduto.resources
+C:\Users\DanielBrandão\Pictures\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.TabelaAddFornecedor.resources
+C:\Users\DanielBrandão\Pictures\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.telalogin.resources
+C:\Users\DanielBrandão\Pictures\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.Properties.Resources.resources
+C:\Users\DanielBrandão\Pictures\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.telaprincipal.resources
+C:\Users\DanielBrandão\Pictures\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.csproj.GenerateResource.cache
+C:\Users\DanielBrandão\Pictures\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.csproj.CoreCompileInputs.cache
+C:\Users\DanielBrandão\Pictures\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.csproj.CopyComplete
+C:\Users\DanielBrandão\Pictures\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.exe
+C:\Users\DanielBrandão\Pictures\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.pdb
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\bin\Debug\Bunifu_UI_v1.52.1.3.0.0.Fakes.fakesconfig
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\bin\Debug\pt-BR\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.csprojFakesResolveAssemblyReference.cache
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\Fakes\bui152\b\Accessibility.dll
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\Fakes\bui152\b\Bunifu_UI_v1.52.1.3.0.0.Fakes.dll
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\Fakes\bui152\b\Bunifu_UI_v1.52.1.3.0.0.Fakes.fakesconfig
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\Fakes\bui152\b\Bunifu_UI_v1.52.1.3.0.0.Fakes.pdb
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\Fakes\bui152\b\Bunifu_UI_v1.52.1.3.0.0.Fakes.xml
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\Fakes\bui152\b\Bunifu_UI_v1.52.dll
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\Fakes\bui152\b\Google.Protobuf.dll
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\Fakes\bui152\b\Microsoft.QualityTools.Testing.Fakes.dll
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\Fakes\bui152\b\Microsoft.VisualBasic.PowerPacks.dll
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\Fakes\bui152\b\Microsoft.VisualBasic.PowerPacks.xml
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\Fakes\bui152\b\MySql.Data.dll
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\Fakes\bui152\b\MySql.Data.EntityFramework.dll
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\Fakes\bui152\b\MySql.Data.EntityFramework.xml
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\Fakes\bui152\b\MySQL.Data.EntityFrameworkCore.Design.dll
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\Fakes\bui152\b\MySQL.Data.EntityFrameworkCore.Design.xml
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\Fakes\bui152\b\MySQL.Data.EntityFrameworkCore.dll
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\Fakes\bui152\b\MySQL.Data.EntityFrameworkCore.xml
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\Fakes\bui152\b\MySql.Data.xml
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\Fakes\bui152\b\MySql.Web.dll
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\Fakes\bui152\b\MySql.Web.xml
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\Fakes\bui152\b\pt-BR\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\Fakes\bui152\b\Reports.dll
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\Fakes\bui152\f.ah
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\Fakes\bui152\f.ch
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\Fakes\bui152\f.cs
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\Fakes\bui152\f.csproj
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\Fakes\bui152\f.fakes
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\Fakes\bui152\f.fakesconfig
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\Fakes\bui152\o\Bunifu_UI_v1.52.1.3.0.0.Fakes.dll
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\Fakes\bui152\o\Bunifu_UI_v1.52.1.3.0.0.Fakes.pdb
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\Fakes\bui152\o\f.csproj.CopyComplete
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\Fakes\bui152\o\f.csproj.CoreCompileInputs.cache
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\Fakes\bui152\o\f.csproj.FileListAbsolute.txt
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\Fakes\bui152\o\f.csprojAssemblyReference.cache
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\Fakes\fakes.args
+E:\Users\Rafael Goulart\Area de Trabalho\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\DanielBrandão\Desktop\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\bin\Debug\Bunifu_UI_v1.52.1.3.0.0.Fakes.fakesconfig
+C:\Users\DanielBrandão\Desktop\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\DanielBrandão\Desktop\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\bin\Debug\pt-BR\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\DanielBrandão\Desktop\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.csprojFakesResolveAssemblyReference.cache
+C:\Users\DanielBrandão\Desktop\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\Fakes\bui152\b\Accessibility.dll
+C:\Users\DanielBrandão\Desktop\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\Fakes\bui152\b\Bunifu_UI_v1.52.1.3.0.0.Fakes.dll
+C:\Users\DanielBrandão\Desktop\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\Fakes\bui152\b\Bunifu_UI_v1.52.1.3.0.0.Fakes.fakesconfig
+C:\Users\DanielBrandão\Desktop\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\Fakes\bui152\b\Bunifu_UI_v1.52.1.3.0.0.Fakes.pdb
+C:\Users\DanielBrandão\Desktop\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\Fakes\bui152\b\Bunifu_UI_v1.52.1.3.0.0.Fakes.xml
+C:\Users\DanielBrandão\Desktop\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\Fakes\bui152\b\Bunifu_UI_v1.52.dll
+C:\Users\DanielBrandão\Desktop\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\Fakes\bui152\b\Google.Protobuf.dll
+C:\Users\DanielBrandão\Desktop\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\Fakes\bui152\b\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\DanielBrandão\Desktop\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\Fakes\bui152\b\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\DanielBrandão\Desktop\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\Fakes\bui152\b\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\DanielBrandão\Desktop\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\Fakes\bui152\b\MySql.Data.dll
+C:\Users\DanielBrandão\Desktop\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\Fakes\bui152\b\MySql.Data.EntityFramework.dll
+C:\Users\DanielBrandão\Desktop\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\Fakes\bui152\b\MySql.Data.EntityFramework.xml
+C:\Users\DanielBrandão\Desktop\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\Fakes\bui152\b\MySQL.Data.EntityFrameworkCore.Design.dll
+C:\Users\DanielBrandão\Desktop\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\Fakes\bui152\b\MySQL.Data.EntityFrameworkCore.Design.xml
+C:\Users\DanielBrandão\Desktop\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\Fakes\bui152\b\MySQL.Data.EntityFrameworkCore.dll
+C:\Users\DanielBrandão\Desktop\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\Fakes\bui152\b\MySQL.Data.EntityFrameworkCore.xml
+C:\Users\DanielBrandão\Desktop\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\Fakes\bui152\b\MySql.Data.xml
+C:\Users\DanielBrandão\Desktop\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\Fakes\bui152\b\MySql.Web.dll
+C:\Users\DanielBrandão\Desktop\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\Fakes\bui152\b\MySql.Web.xml
+C:\Users\DanielBrandão\Desktop\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\Fakes\bui152\b\pt-BR\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\DanielBrandão\Desktop\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\Fakes\bui152\b\Reports.dll
+C:\Users\DanielBrandão\Desktop\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\Fakes\bui152\f.ah
+C:\Users\DanielBrandão\Desktop\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\Fakes\bui152\f.ch
+C:\Users\DanielBrandão\Desktop\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\Fakes\bui152\f.cs
+C:\Users\DanielBrandão\Desktop\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\Fakes\bui152\f.csproj
+C:\Users\DanielBrandão\Desktop\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\Fakes\bui152\f.fakes
+C:\Users\DanielBrandão\Desktop\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\Fakes\bui152\f.fakesconfig
+C:\Users\DanielBrandão\Desktop\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\Fakes\bui152\o\Bunifu_UI_v1.52.1.3.0.0.Fakes.dll
+C:\Users\DanielBrandão\Desktop\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\Fakes\bui152\o\Bunifu_UI_v1.52.1.3.0.0.Fakes.pdb
+C:\Users\DanielBrandão\Desktop\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\Fakes\bui152\o\f.csproj.CopyComplete
+C:\Users\DanielBrandão\Desktop\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\Fakes\bui152\o\f.csproj.CoreCompileInputs.cache
+C:\Users\DanielBrandão\Desktop\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\Fakes\bui152\o\f.csproj.FileListAbsolute.txt
+C:\Users\DanielBrandão\Desktop\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\Fakes\bui152\o\f.csprojAssemblyReference.cache
+C:\Users\DanielBrandão\Desktop\Desktop_Principal\SGM_Desktop2\SGM_Desktop2\obj\Debug\Fakes\fakes.args
+C:\Users\Daniel\Desktop\Desktop_Principal\sgm_desktop2\SGM_Desktop2\bin\Debug\SGM_Desktop2.exe.config
+C:\Users\Daniel\Desktop\Desktop_Principal\sgm_desktop2\SGM_Desktop2\bin\Debug\SGM_Desktop2.exe
+C:\Users\Daniel\Desktop\Desktop_Principal\sgm_desktop2\SGM_Desktop2\bin\Debug\SGM_Desktop2.pdb
+C:\Users\Daniel\Desktop\Desktop_Principal\sgm_desktop2\SGM_Desktop2\bin\Debug\Google.Protobuf.dll
+C:\Users\Daniel\Desktop\Desktop_Principal\sgm_desktop2\SGM_Desktop2\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Daniel\Desktop\Desktop_Principal\sgm_desktop2\SGM_Desktop2\bin\Debug\MySql.Data.xml
+C:\Users\Daniel\Desktop\Desktop_Principal\sgm_desktop2\SGM_Desktop2\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\Daniel\Desktop\Desktop_Principal\sgm_desktop2\SGM_Desktop2\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+C:\Users\Daniel\Desktop\Desktop_Principal\sgm_desktop2\SGM_Desktop2\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.xml
+C:\Users\Daniel\Desktop\Desktop_Principal\sgm_desktop2\SGM_Desktop2\bin\Debug\MySql.Web.xml
+C:\Users\Daniel\Desktop\Desktop_Principal\sgm_desktop2\SGM_Desktop2\bin\Debug\pt-BR\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\Daniel\Desktop\Desktop_Principal\sgm_desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.csprojAssemblyReference.cache
+C:\Users\Daniel\Desktop\Desktop_Principal\sgm_desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.exe.config
+C:\Users\Daniel\Desktop\Desktop_Principal\sgm_desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.AlterarCliente.resources
+C:\Users\Daniel\Desktop\Desktop_Principal\sgm_desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormChat.resources
+C:\Users\Daniel\Desktop\Desktop_Principal\sgm_desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormContaPagar.resources
+C:\Users\Daniel\Desktop\Desktop_Principal\sgm_desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormContaReceber.resources
+C:\Users\Daniel\Desktop\Desktop_Principal\sgm_desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormPessoa.resources
+C:\Users\Daniel\Desktop\Desktop_Principal\sgm_desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormServico.resources
+C:\Users\Daniel\Desktop\Desktop_Principal\sgm_desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormServicoRelatorio.resources
+C:\Users\Daniel\Desktop\Desktop_Principal\sgm_desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormVeiculo.resources
+C:\Users\Daniel\Desktop\Desktop_Principal\sgm_desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.FormProduto.resources
+C:\Users\Daniel\Desktop\Desktop_Principal\sgm_desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.TabelaAddFornecedor.resources
+C:\Users\Daniel\Desktop\Desktop_Principal\sgm_desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.telalogin.resources
+C:\Users\Daniel\Desktop\Desktop_Principal\sgm_desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.Properties.Resources.resources
+C:\Users\Daniel\Desktop\Desktop_Principal\sgm_desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.telaprincipal.resources
+C:\Users\Daniel\Desktop\Desktop_Principal\sgm_desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.csproj.GenerateResource.cache
+C:\Users\Daniel\Desktop\Desktop_Principal\sgm_desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\Desktop_Principal\sgm_desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.csproj.CopyComplete
+C:\Users\Daniel\Desktop\Desktop_Principal\sgm_desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.exe
+C:\Users\Daniel\Desktop\Desktop_Principal\sgm_desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.pdb
+C:\Users\Daniel\Desktop\Desktop_Principal\sgm_desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.AlteraFornecedor.resources
+C:\Área de Trabalho\SGM_Desktop2\SGM_Desktop2\bin\Debug\pt-BR\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Área de Trabalho\SGM_Desktop2\SGM_Desktop2\obj\Debug\SGM_Desktop2.AlteraFornecedor.resources

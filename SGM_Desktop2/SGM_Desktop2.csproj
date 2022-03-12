@@ -1,0 +1,542 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{70232340-5E93-43E5-946B-3ED6E8EF1D11}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>SGM_Desktop2</RootNamespace>
+    <AssemblyName>SGM_Desktop2</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.52, Version=1.3.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files (x86)\Microsoft Visual Studio\Installer\Bunifu_UI_v1.52.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.QualityTools.Testing.Fakes, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="MySql.Data, Version=8.0.15.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="MySql.Data.EntityFramework, Version=8.0.15.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="MySQL.Data.EntityFrameworkCore, Version=8.0.15.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="MySQL.Data.EntityFrameworkCore.Design, Version=8.0.15.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="MySql.Web, Version=8.0.15.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="Reports">
+      <HintPath>..\..\..\..\Downloads\Reports.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Agenda.cs" />
+    <Compile Include="AlteraFornecedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AlteraFornecedor.Designer.cs">
+      <DependentUpon>AlteraFornecedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AlterarCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AlterarCliente.Designer.cs">
+      <DependentUpon>AlterarCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CadastroPessoa.cs" />
+    <Compile Include="CadastroProduto.cs" />
+    <Compile Include="CadVeiculo.cs" />
+    <Compile Include="conexao.cs" />
+    <Compile Include="Connected Services\webCEP\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="Contas.cs" />
+    <Compile Include="Estoque.cs" />
+    <Compile Include="FormAgenda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAgenda.Designer.cs">
+      <DependentUpon>FormAgenda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormChat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormChat.Designer.cs">
+      <DependentUpon>FormChat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormContaPagar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormContaPagar.Designer.cs">
+      <DependentUpon>FormContaPagar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormContaReceber.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormContaReceber.Designer.cs">
+      <DependentUpon>FormContaReceber.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormEstoque.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormEstoque.Designer.cs">
+      <DependentUpon>FormEstoque.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormServico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormServico.designer.cs">
+      <DependentUpon>FormServico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormServicoRelatorio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormServicoRelatorio.designer.cs">
+      <DependentUpon>FormServicoRelatorio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUsuario.Designer.cs">
+      <DependentUpon>FormUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GlobalSuppressions.cs" />
+    <Compile Include="log.cs" />
+    <Compile Include="FormPessoa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPessoa.Designer.cs">
+      <DependentUpon>FormPessoa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormVeiculo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormVeiculo.Designer.cs">
+      <DependentUpon>FormVeiculo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormProduto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormProduto.Designer.cs">
+      <DependentUpon>FormProduto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="telaInicia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="telaInicia.Designer.cs">
+      <DependentUpon>telaInicia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="telalogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="telalogin.Designer.cs">
+      <DependentUpon>telalogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="telaprincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="telaprincipal.designer.cs">
+      <DependentUpon>telaprincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User.cs" />
+    <Compile Include="ValidaCnpj.cs" />
+    <Compile Include="ValidaCpf.cs" />
+    <Compile Include="ValidaLog.cs" />
+    <Compile Include="Vendas.cs" />
+    <EmbeddedResource Include="AlteraFornecedor.resx">
+      <DependentUpon>AlteraFornecedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AlterarCliente.resx">
+      <DependentUpon>AlterarCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAgenda.resx">
+      <DependentUpon>FormAgenda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormChat.resx">
+      <DependentUpon>FormChat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormContaPagar.resx">
+      <DependentUpon>FormContaPagar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormContaReceber.resx">
+      <DependentUpon>FormContaReceber.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormEstoque.resx">
+      <DependentUpon>FormEstoque.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPessoa.resx">
+      <DependentUpon>FormPessoa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormServico.resx">
+      <DependentUpon>FormServico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormServicoRelatorio.resx">
+      <DependentUpon>FormServicoRelatorio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormUsuario.resx">
+      <DependentUpon>FormUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormVeiculo.resx">
+      <DependentUpon>FormVeiculo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormProduto.resx">
+      <DependentUpon>FormProduto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="telaInicia.resx">
+      <DependentUpon>telaInicia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="telalogin.resx">
+      <DependentUpon>telalogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="telaprincipal.resx">
+      <DependentUpon>telaprincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Connected Services\webCEP\AtendeClienteService.wsdl" />
+    <None Include="Connected Services\webCEP\SGM_Desktop2.webCEP.atualizaPagamentoNaEntregaResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\webCEP\SGM_Desktop2.webCEP.atualizaRemessaAgrupadaResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\webCEP\SGM_Desktop2.webCEP.bloquearObjetoResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\webCEP\SGM_Desktop2.webCEP.buscaClienteResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\webCEP\SGM_Desktop2.webCEP.buscaContratoResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\webCEP\SGM_Desktop2.webCEP.buscaDataAtualResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\webCEP\SGM_Desktop2.webCEP.buscaPagamentoEntregaResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\webCEP\SGM_Desktop2.webCEP.buscaServicosAdicionaisAtivosResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\webCEP\SGM_Desktop2.webCEP.buscaServicosResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\webCEP\SGM_Desktop2.webCEP.buscaServicosValorDeclaradoResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\webCEP\SGM_Desktop2.webCEP.buscaServicosXServicosAdicionaisResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\webCEP\SGM_Desktop2.webCEP.buscaTarifaValeResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\webCEP\SGM_Desktop2.webCEP.calculaTarifaServicoResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\webCEP\SGM_Desktop2.webCEP.cancelarObjetoResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\webCEP\SGM_Desktop2.webCEP.cancelarPedidoScolResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\webCEP\SGM_Desktop2.webCEP.clienteERP.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\webCEP\SGM_Desktop2.webCEP.consultaCEPResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\webCEP\SGM_Desktop2.webCEP.consultaSROResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\webCEP\SGM_Desktop2.webCEP.consultaSRO_NEWResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\webCEP\SGM_Desktop2.webCEP.contratoERP.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\webCEP\SGM_Desktop2.webCEP.embalagemLRSMaster.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\webCEP\SGM_Desktop2.webCEP.enderecoERP.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\webCEP\SGM_Desktop2.webCEP.fechaPlpResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\webCEP\SGM_Desktop2.webCEP.fechaPlpVariosServicosResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\webCEP\SGM_Desktop2.webCEP.geraDigitoVerificadorEtiquetasResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\webCEP\SGM_Desktop2.webCEP.getStatusCartaoPostagemResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\webCEP\SGM_Desktop2.webCEP.getStatusPLPResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\webCEP\SGM_Desktop2.webCEP.integrarUsuarioScolResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\webCEP\SGM_Desktop2.webCEP.obterClienteAtualizacaoResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\webCEP\SGM_Desktop2.webCEP.obterEmbalagemLRSResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\webCEP\SGM_Desktop2.webCEP.retornoCancelamento.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\webCEP\SGM_Desktop2.webCEP.servicoAdicionalXML.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\webCEP\SGM_Desktop2.webCEP.servicoERP.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\webCEP\SGM_Desktop2.webCEP.solicitaEtiquetasResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\webCEP\SGM_Desktop2.webCEP.solicitaPLPResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\webCEP\SGM_Desktop2.webCEP.solicitarPostagemScolResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\webCEP\SGM_Desktop2.webCEP.solicitaXmlPlpResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\webCEP\SGM_Desktop2.webCEP.statusCartao.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\webCEP\SGM_Desktop2.webCEP.statusPlp.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\webCEP\SGM_Desktop2.webCEP.valePostal.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\webCEP\SGM_Desktop2.webCEP.validaEtiquetaPLPResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\webCEP\SGM_Desktop2.webCEP.validaPlpResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\webCEP\SGM_Desktop2.webCEP.validarPostagemReversaResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\webCEP\SGM_Desktop2.webCEP.validarPostagemSimultaneaResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\webCEP\SGM_Desktop2.webCEP.verificaDisponibilidadeServicoResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\webCEP\SGM_Desktop2.webCEP.VerificaSeTodosObjetosCanceladosResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <Fakes Include="Fakes\Bunifu_UI_v1.52.fakes" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fechar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fechar1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconepessoa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconepessoa1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo_sgm.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\maximizar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\maximizar1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minimizar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minimizar1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\restaurar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\restaurar1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pessoa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\linhausuario.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\linhausuario1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pessoa11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\senha.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\senha1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lista.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\novousuario.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\controleestoque.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fluxocaixa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\serviço.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\consulta.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cadastro.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\relatorio.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\agenda.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chat.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="cmd\" />
+    <Folder Include="c\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cliente.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fornecedor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\produto.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\contasapagar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\contasapagar1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\contasareceber.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vendas.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadataStorage Include="Connected Services\webCEP\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Connected Services\webCEP\configuration91.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Connected Services\webCEP\configuration.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Connected Services\webCEP\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pesquisar1.png" />
+    <None Include="Resources\pesquisar.png" />
+    <None Include="Resources\usuario.png" />
+    <None Include="Resources\novousuario1.png" />
+    <None Include="Resources\orçamento.png" />
+    <None Include="Resources\relatorio11.png" />
+    <None Include="Resources\vendas1.png" />
+    <None Include="Resources\relatorio1.png" />
+    <None Include="Resources\receber1.png" />
+    <None Include="Resources\receber.png" />
+    <None Include="Resources\pagar.png" />
+    <None Include="Resources\produto1.png" />
+    <None Include="Resources\veiculo.png" />
+    <None Include="Resources\cadpessoa.png" />
+    <Content Include="Resources\Image1.png" />
+    <None Include="Resources\itens.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
